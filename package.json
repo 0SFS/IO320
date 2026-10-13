@@ -1,0 +1,11 @@
+{
+  "name": "@0sfs/io320",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The Lycoming IO-320 engine for 0SFS: JSBSim engine definition.",
+  "license": "AGPL-3.0-only",
+  "type": "module",
+  "exports": {
+    "./package.json": "./package.json"
+  }
+}
